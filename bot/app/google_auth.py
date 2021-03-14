@@ -55,3 +55,7 @@ class GoogleAuth:
             print('Labels:')
             for label in labels:
                 print(label['name'])
+    
+    def _upload_cred(self):
+        # private method for upload file
+        pass

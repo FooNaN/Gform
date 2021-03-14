@@ -7,5 +7,7 @@ if __name__ == '__main__':
 
     # google_url =  googleAuth.get_url()
 
-    # telegramBot = 
+    # telegramBot = Bot()
+    # telegramBot.set_url_endpoint(google_url)
+    # telegramBot.start()
 
